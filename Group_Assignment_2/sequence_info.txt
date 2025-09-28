@@ -1,0 +1,9 @@
+Selected information about ENTRY: P68871
+- Protein names => Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain) [Cleaved into: LVV-hemorphin-7; Spinorphin]
+
+- Organism => Homo sapiens (Human)
+
+- Function [CC] => FUNCTION: Involved in oxygen transport from the lung to the various peripheral tissues. {ECO:0000269|PubMed:28066926}.; FUNCTION: LVV-hemorphin-7 potentiates the activity of bradykinin, causing a decrease in blood pressure.; FUNCTION: [Spinorphin]: Functions as an endogenous inhibitor of enkephalin-degrading enzymes such as DPP3, and as a selective antagonist of the P2RX3 receptor which is involved in pain signaling, these properties implicate it as a regulator of pain and inflammation.
+
+- Keywords => 3D-structure;Acetylation;Congenital dyserythropoietic anemia;Direct protein sequencing;Disease variant;Glycation;Glycoprotein;Heme;Hereditary hemolytic anemia;Hypotensive agent;Iron;Metal-binding;Oxygen transport;Phosphoprotein;Pyruvate;Reference proteome;S-nitrosylation;Transport;Vasoactive
+
