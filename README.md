@@ -5,4 +5,5 @@ Projects Made During My Bioinformatics Class:
   - Phylogenetic Analysis of the Haemoglobin Gene
   - Protein Sequence Classification
 - Individual Assignments
-  - 
+  -
+  - Position Weight Matrix (PWM) Implementation 
